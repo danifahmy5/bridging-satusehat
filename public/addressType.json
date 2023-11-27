@@ -1,0 +1,17 @@
+[
+  {
+    "code": "postal",
+    "display": "Pos",
+    "definition": "Alamat surat - Kotak Pos dan alamat perawatan."
+  },
+  {
+    "code": "physical",
+    "display": "Fisik",
+    "definition": "Alamat fisik yang dapat dikunjungi."
+  },
+  {
+    "code": "both",
+    "display": "Pos & Fisik",
+    "definition": "Sebuah alamat yang bersifat fisik dan pos."
+  }
+]

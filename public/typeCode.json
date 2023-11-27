@@ -1,0 +1,62 @@
+[
+  {
+    "code": "prov",
+    "display": "Penyedia Layanan Kesehatan",
+    "definition": "Sebuah organisasi yang menyediakan layanan kesehatan."
+  },
+  {
+    "code": "dept",
+    "display": "Departemen Rumah Sakit",
+    "definition": "Sebuah departemen atau ruangan di dalam rumah sakit (Umumnya tidak berlaku untuk organisasi tingkat atas)."
+  },
+  {
+    "code": "team",
+    "display": "Tim Organisasi",
+    "definition": "Sebuah tim organisasi biasanya merupakan kelompok praktisi yang melakukan fungsi tertentu dalam sebuah organisasi (yang bisa menjadi organisasi tingkat atas atau departemen)."
+  },
+  {
+    "code": "govt",
+    "display": "Pemerintah",
+    "definition": "Sebuah badan politik, sering digunakan ketika mencakup catatan organisasi untuk badan pemerintah seperti Pemerintah Federal, Pemerintah Daerah, atau Pemerintah Lokal."
+  },
+  {
+    "code": "ins",
+    "display": "Perusahaan Asuransi",
+    "definition": "Sebuah perusahaan yang menyediakan asuransi kepada para pelanggan yang mungkin mencakup kebijakan terkait kesehatan."
+  },
+  {
+    "code": "pay",
+    "display": "Pembayar",
+    "definition": "Sebuah perusahaan, yayasan amal, atau organisasi pemerintah, yang memproses klaim dan/atau mengeluarkan pembayaran kepada penyedia atas nama pasien atau kelompok pasien."
+  },
+  {
+    "code": "edu",
+    "display": "Institut Pendidikan",
+    "definition": "Sebuah lembaga pendidikan yang menyediakan fasilitas pendidikan atau penelitian."
+  },
+  {
+    "code": "reli",
+    "display": "Institusi Keagamaan",
+    "definition": "Sebuah organisasi yang diidentifikasi sebagai bagian dari institusi keagamaan."
+  },
+  {
+    "code": "crs",
+    "display": "Penyandang Dana Penelitian Klinis",
+    "definition": "Sebuah organisasi yang diidentifikasi sebagai Penyandang Dana Penelitian Klinis/Farmasi."
+  },
+  {
+    "code": "cg",
+    "display": "Kelompok Masyarakat",
+    "definition": "Sebuah kelompok masyarakat yang tidak terdaftar sebagai badan hukum."
+  },
+  {
+    "code": "bus",
+    "display": "Usaha atau Perusahaan Non-Kesehatan",
+    "definition": "Sebuah organisasi yang merupakan bisnis terdaftar atau perusahaan tetapi tidak diidentifikasi oleh tipe lainnya."
+  },
+  {
+    "code": "other",
+    "display": "Lainnya",
+    "definition": "Tipe organisasi lainnya yang belum dijelaskan."
+  }
+]

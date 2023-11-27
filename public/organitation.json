@@ -1,0 +1,2893 @@
+{
+  "entry": [
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/74da4ac5-9fc3-4df2-a497-4ed3bc3f7d38",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "74da4ac5-9fc3-4df2-a497-4ed3bc3f7d38",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID. HUMAS"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:57:33.184017+00:00",
+          "versionId": "MTcwMDg3NzQ1MzE4NDAxNzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/bb2b0f29-bb1c-454c-97a4-0b6bf57726f1"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/04cf3617-8531-4e64-b8e9-3aa044f06f48",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "04cf3617-8531-4e64-b8e9-3aa044f06f48",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID. PKRS"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:57:13.361997+00:00",
+          "versionId": "MTcwMDg3NzQzMzM2MTk5NzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/bb2b0f29-bb1c-454c-97a4-0b6bf57726f1"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/56e22681-7480-41ed-958e-55322a7428b3",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "56e22681-7480-41ed-958e-55322a7428b3",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "CASE MANAGER R.INAP"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:56:56.327145+00:00",
+          "versionId": "MTcwMDg3NzQxNjMyNzE0NTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b3be271e-527d-4403-b111-1445b735d250"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/68419962-31c3-4765-b0ff-20e2f5581584",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "68419962-31c3-4765-b0ff-20e2f5581584",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "CASE MANAGER IGD-IRJ"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:56:48.546632+00:00",
+          "versionId": "MTcwMDg3NzQwODU0NjYzMjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b3be271e-527d-4403-b111-1445b735d250"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/bb2b0f29-bb1c-454c-97a4-0b6bf57726f1",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "bb2b0f29-bb1c-454c-97a4-0b6bf57726f1",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "BID. MARKETING"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:56:36.530898+00:00",
+          "versionId": "MTcwMDg3NzM5NjUzMDg5ODAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b3be271e-527d-4403-b111-1445b735d250"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/3bf6240f-26ce-4ab5-85a9-c76d937c86c2",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "3bf6240f-26ce-4ab5-85a9-c76d937c86c2",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID, PSRS"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:54:55.744295+00:00",
+          "versionId": "MTcwMDg3NzI5NTc0NDI5NTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/e60b65d2-c0b7-4f41-bb33-b944fa740c8f"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/7f6f63e9-3ee7-4668-af88-e8a016120ceb",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "7f6f63e9-3ee7-4668-af88-e8a016120ceb",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID, SANITASI & RT"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:54:38.902196+00:00",
+          "versionId": "MTcwMDg3NzI3ODkwMjE5NjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/e60b65d2-c0b7-4f41-bb33-b944fa740c8f"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/b5ee2b5e-a70f-4a47-9a05-7d7b7b8ff099",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "b5ee2b5e-a70f-4a47-9a05-7d7b7b8ff099",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID. ADM & DIGITAL"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:54:26.161622+00:00",
+          "versionId": "MTcwMDg3NzI2NjE2MTYyMjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/e60b65d2-c0b7-4f41-bb33-b944fa740c8f"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/9194c7e3-0e31-46fd-ba32-b86c82b0c07d",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "9194c7e3-0e31-46fd-ba32-b86c82b0c07d",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "KOORD, CASEMIX"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:53:40.780830+00:00",
+          "versionId": "MTcwMDg3NzIyMDc4MDgzMDAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/987d777e-f11a-402a-87c2-2977e52a87d6"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/2b69d387-0fc1-404b-8ed3-4d6826498fdd",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "2b69d387-0fc1-404b-8ed3-4d6826498fdd",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID, LOGISTIK"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:53:07.248603+00:00",
+          "versionId": "MTcwMDg3NzE4NzI0ODYwMzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b5f583ca-d275-4bbc-847e-4386b0d83939"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/987d777e-f11a-402a-87c2-2977e52a87d6",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "987d777e-f11a-402a-87c2-2977e52a87d6",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID. PERBENDAHARAAN"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:52:54.785849+00:00",
+          "versionId": "MTcwMDg3NzE3NDc4NTg0OTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b5f583ca-d275-4bbc-847e-4386b0d83939"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/5f4cfaa2-34de-45fe-8215-5d8e0f29b5ad",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "5f4cfaa2-34de-45fe-8215-5d8e0f29b5ad",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID. AKUNTANSI"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:52:45.786302+00:00",
+          "versionId": "MTcwMDg3NzE2NTc4NjMwMjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b5f583ca-d275-4bbc-847e-4386b0d83939"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/13058f6d-7c78-402a-a1d9-f622dcf46363",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "13058f6d-7c78-402a-a1d9-f622dcf46363",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID. DAKWAH"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:52:07.007653+00:00",
+          "versionId": "MTcwMDg3NzEyNzAwNzY1MzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/34a78257-ee46-4089-b71d-3b354f3d8d44"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/42a09eec-6774-4f53-b4d5-e9f203e5a1c7",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "42a09eec-6774-4f53-b4d5-e9f203e5a1c7",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID, DIKLAT"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:51:52.884135+00:00",
+          "versionId": "MTcwMDg3NzExMjg4NDEzNTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/34a78257-ee46-4089-b71d-3b354f3d8d44"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/e7b6ef59-4469-4035-b748-617e3eb119e5",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "e7b6ef59-4469-4035-b748-617e3eb119e5",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "SUBID. YAN.KAR"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:51:40.656876+00:00",
+          "versionId": "MTcwMDg3NzEwMDY1Njg3NjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/34a78257-ee46-4089-b71d-3b354f3d8d44"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/e60b65d2-c0b7-4f41-bb33-b944fa740c8f",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "e60b65d2-c0b7-4f41-bb33-b944fa740c8f",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "BID. UMUM"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:50:59.294363+00:00",
+          "versionId": "MTcwMDg3NzA1OTI5NDM2MzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/2a6ae9e1-c12a-43d4-9d0b-f9d5d70d5895"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/b5f583ca-d275-4bbc-847e-4386b0d83939",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "b5f583ca-d275-4bbc-847e-4386b0d83939",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "BID. KEUANGAN"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:50:47.050842+00:00",
+          "versionId": "MTcwMDg3NzA0NzA1MDg0MjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/2a6ae9e1-c12a-43d4-9d0b-f9d5d70d5895"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/34a78257-ee46-4089-b71d-3b354f3d8d44",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "34a78257-ee46-4089-b71d-3b354f3d8d44",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "BID. PENGEMBANGAN SDI"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:50:14.008448+00:00",
+          "versionId": "MTcwMDg3NzAxNDAwODQ0ODAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/2a6ae9e1-c12a-43d4-9d0b-f9d5d70d5895"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/9bba4a38-fbd8-44c1-8676-6f77f75c8a6a",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "9bba4a38-fbd8-44c1-8676-6f77f75c8a6a",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INST. GIZI"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:38:04.728243+00:00",
+          "versionId": "MTcwMDg3NjI4NDcyODI0MzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/93633802-2335-47f4-a763-bb019053f412",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "93633802-2335-47f4-a763-bb019053f412",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INST. REKAM MEDIS"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:37:53.618051+00:00",
+          "versionId": "MTcwMDg3NjI3MzYxODA1MTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/e785e683-bbef-43e7-bba5-bc4f3e3b21a6",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "e785e683-bbef-43e7-bba5-bc4f3e3b21a6",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INST.LABORATORIUM"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:37:42.133226+00:00",
+          "versionId": "MTcwMDg3NjI2MjEzMzIyNjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/63469ea8-a511-4061-ab2a-24a998429ee7",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "63469ea8-a511-4061-ab2a-24a998429ee7",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INST. RADIOLOGI"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:37:31.352419+00:00",
+          "versionId": "MTcwMDg3NjI1MTM1MjQxOTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/d5de760f-3372-4a56-be5d-7ed793d67a0d",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "d5de760f-3372-4a56-be5d-7ed793d67a0d",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "KOORD.LOG.FARM"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:37:09.589115+00:00",
+          "versionId": "MTcwMDg3NjIyOTU4OTExNTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/bb9cabc4-58a7-46ea-9a03-a32ade8a4007"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/ab5d7e30-e64a-4089-81fa-8fae630b1407",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "ab5d7e30-e64a-4089-81fa-8fae630b1407",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "KOORD.YAN.FARM"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:36:46.071668+00:00",
+          "versionId": "MTcwMDg3NjIwNjA3MTY2ODAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/bb9cabc4-58a7-46ea-9a03-a32ade8a4007"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/bb9cabc4-58a7-46ea-9a03-a32ade8a4007",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "bb9cabc4-58a7-46ea-9a03-a32ade8a4007",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INSTALASI FARMASI"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:36:16.542509+00:00",
+          "versionId": "MTcwMDg3NjE3NjU0MjUwOTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/54323b39-40e9-4103-b915-c9f0e223643f",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "54323b39-40e9-4103-b915-c9f0e223643f",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "RNA ANAK & BERSALIN"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:31:37.432402+00:00",
+          "versionId": "MTcwMDg3NTg5NzQzMjQwMjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/7b1ba251-7e9b-4743-8787-fa2e0d1c0e71",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "7b1ba251-7e9b-4743-8787-fa2e0d1c0e71",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "IRNA. DEWASA 2"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:29:56.939002+00:00",
+          "versionId": "MTcwMDg3NTc5NjkzOTAwMjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/5048123a-34bd-4a5f-941e-6d1a9ab91a94",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "5048123a-34bd-4a5f-941e-6d1a9ab91a94",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "IRNA. DEWASA 1"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:29:43.850276+00:00",
+          "versionId": "MTcwMDg3NTc4Mzg1MDI3NjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/f460c543-8380-4149-a906-5b9faabc639f",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "f460c543-8380-4149-a906-5b9faabc639f",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INS, PERWIN INTENSIE"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:29:31.294939+00:00",
+          "versionId": "MTcwMDg3NTc3MTI5NDkzOTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/174570ff-08fd-4362-8c50-51219821d652",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "174570ff-08fd-4362-8c50-51219821d652",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "KOORD. CSSD"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:28:36.391876+00:00",
+          "versionId": "MTcwMDg3NTcxNjM5MTg3NjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/c98d7c00-41bb-464c-b456-436e34d81ebb"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/c98d7c00-41bb-464c-b456-436e34d81ebb",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "c98d7c00-41bb-464c-b456-436e34d81ebb",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INS, BEDAH SENTRAL"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:27:54.483703+00:00",
+          "versionId": "MTcwMDg3NTY3NDQ4MzcwMzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/e4aad4c8-5468-4daf-b740-a4d6801a1a61",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "e4aad4c8-5468-4daf-b740-a4d6801a1a61",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INS. RAWAT JALAN"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:26:46.282122+00:00",
+          "versionId": "MTcwMDg3NTYwNjI4MjEyMjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/5bde4042-f2ff-4493-882b-88e8e3eeee15",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "5bde4042-f2ff-4493-882b-88e8e3eeee15",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "INS. GAWAT DARURAT"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:26:21.152913+00:00",
+          "versionId": "MTcwMDg3NTU4MTE1MjkxMzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/582a2f69-d09d-4891-8638-c2956449618f",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "582a2f69-d09d-4891-8638-c2956449618f",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "BID.YAN.MED"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:22:00.318437+00:00",
+          "versionId": "MTcwMDg3NTMyMDMxODQzNzAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit ",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/5eeb73a3-5e0a-4c82-8caf-eb4bdee3fa20",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62111",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "5eeb73a3-5e0a-4c82-8caf-eb4bdee3fa20",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "BID.JANG.MED"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:03:09.529730+00:00",
+          "versionId": "MTcwMDg3NDE4OTUyOTczMDAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/74da335c-047c-42c3-87f6-a945e4e0077c",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62111",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "physical",
+            "use": "work"
+          }
+        ],
+        "id": "74da335c-047c-42c3-87f6-a945e4e0077c",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "BID.KEPERAWATAN"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-25T01:01:57.223932+00:00",
+          "versionId": "MTcwMDg3NDExNzIyMzkzMjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/d847b272-6746-445b-a5f2-30af10899a92"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/2a6ae9e1-c12a-43d4-9d0b-f9d5d70d5895",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62111",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "both",
+            "use": "work"
+          }
+        ],
+        "id": "2a6ae9e1-c12a-43d4-9d0b-f9d5d70d5895",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "WADIR.ADMIN & KEU"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-24T15:10:49.196844+00:00",
+          "versionId": "MTcwMDgzODY0OTE5Njg0NDAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b3be271e-527d-4403-b111-1445b735d250"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/d847b272-6746-445b-a5f2-30af10899a92",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17"
+            ],
+            "postalCode": "62111",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "both",
+            "use": "work"
+          }
+        ],
+        "id": "d847b272-6746-445b-a5f2-30af10899a92",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "WADIR.MEDIS"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-24T15:10:30.885976+00:00",
+          "versionId": "MTcwMDgzODYzMDg4NTk3NjAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/b3be271e-527d-4403-b111-1445b735d250"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Departemen Rumah Sakit",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/b3be271e-527d-4403-b111-1445b735d250",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17, Kauman"
+            ],
+            "postalCode": "62111",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "both",
+            "use": "work"
+          }
+        ],
+        "id": "b3be271e-527d-4403-b111-1445b735d250",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "DIREKTUR"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-24T15:07:19.267421+00:00",
+          "versionId": "MTcwMDgzODQzOTI2NzQyMTAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/82dbf71f-af36-4c59-8aa1-de3470b11a67"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "prov",
+                "display": "Penyedia Layanan Kesehatan",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/82dbf71f-af36-4c59-8aa1-de3470b11a67",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "35"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3522"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "352215"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "7105162005"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Hasyim Asyari No.17, Kauman"
+            ],
+            "postalCode": "62111",
+            "text": "Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "both",
+            "use": "work"
+          }
+        ],
+        "id": "82dbf71f-af36-4c59-8aa1-de3470b11a67",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/100027612",
+            "use": "official",
+            "value": "MPKU PDM BOJONEGORO"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-24T14:59:43.828174+00:00",
+          "versionId": "MTcwMDgzNzk4MzgyODE3NDAwMA"
+        },
+        "name": "RUMAH SAKIT 'AISYIYAH BOJONEGORO",
+        "partOf": {
+          "reference": "Organization/64ebebfc-b234-4abc-a2c2-59cba700844d"
+        },
+        "resourceType": "Organization",
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "team",
+                "display": "Tim Organisasi",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization/f7b5cc19-7a0d-403f-bc44-41589442924a",
+      "resource": {
+        "active": true,
+        "address": [
+          {
+            "city": "Bojonegoro",
+            "country": "ID",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "province",
+                    "valueCode": "31"
+                  },
+                  {
+                    "url": "city",
+                    "valueCode": "3171"
+                  },
+                  {
+                    "url": "district",
+                    "valueCode": "317101"
+                  },
+                  {
+                    "url": "village",
+                    "valueCode": "31710101"
+                  }
+                ],
+                "url": "https://fhir.kemkes.go.id/r4/StructureDefinition/administrativeCode"
+              }
+            ],
+            "line": [
+              "Jl. Panglima Sudirman No.48",
+              "Jl. Hasyim Asyari No.17",
+              "Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro"
+            ],
+            "postalCode": "62113",
+            "text": "Jl. Panglima Sudirman No.48, Jl. Hasyim Asyari No.17, Kauman, Kec. Bojonegoro, Kabupaten Bojonegoro, Jawa Timur 62113",
+            "type": "both",
+            "use": "work"
+          }
+        ],
+        "id": "f7b5cc19-7a0d-403f-bc44-41589442924a",
+        "identifier": [
+          {
+            "system": "http://sys-ids.kemkes.go.id/organization/a3e63f8d-7d72-4677-bce2-a98c5c468305",
+            "use": "official",
+            "value": "DIREKTUR"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2023-11-13T07:00:45.218614+00:00",
+          "versionId": "MTY5OTg1ODg0NTIxODYxNDAwMA"
+        },
+        "name": "Rumah Sakit Aisyiyah Bojonegoro",
+        "partOf": {
+          "reference": "Organization/10000004"
+        },
+        "resourceType": "Organization",
+        "telecom": [
+          {
+            "system": "phone",
+            "use": "work",
+            "value": "0353-881748"
+          },
+          {
+            "system": "email",
+            "use": "work",
+            "value": "rsabgoro@gmail.com"
+          },
+          {
+            "system": "url",
+            "use": "work",
+            "value": "https://rsabojonegoro.com/"
+          }
+        ],
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "dept",
+                "display": "Hospital Department",
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

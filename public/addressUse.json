@@ -1,0 +1,27 @@
+[
+  {
+    "code": "home",
+    "display": "Rumah",
+    "definition": "Alamat komunikasi di rumah."
+  },
+  {
+    "code": "work",
+    "display": "Kantor",
+    "definition": "Alamat kantor. Pilihan utama untuk kontak terkait bisnis selama jam kerja."
+  },
+  {
+    "code": "temp",
+    "display": "Sementara",
+    "definition": "Alamat sementara. Periode dapat memberikan informasi lebih rinci."
+  },
+  {
+    "code": "old",
+    "display": "Lama / Salah",
+    "definition": "Alamat ini tidak lagi digunakan (atau tidak pernah benar tetapi dipertahankan untuk catatan)."
+  },
+  {
+    "code": "billing",
+    "display": "Tagihan",
+    "definition": "Alamat yang digunakan untuk mengirim tagihan, faktur, tanda terima, dll."
+  }
+]
