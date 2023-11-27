@@ -25,9 +25,9 @@ class OrganisasiController extends Controller
     {
 
         $response = Http::asForm()
-            ->post('https://api-satusehat-dev.dto.kemkes.go.id/oauth2/v1/accesstoken?grant_type=client_credentials', [ 
-                'client_id' => 'xRCQ4CVWPMd8gGa8he9HWHvylXuOzROPRisBU4IPCGXFJxy4',
-                'client_secret' => 'iGHbKvYW2xWBwEJ2RP9vMYMSUT4f6xcjLZ8u5zf0dsMIo2KlxfIqACL3r8YRr27l',
+            ->post('https://api-satusehat.kemkes.go.id/oauth2/v1/accesstoken?grant_type=client_credentials', [ 
+                'client_id' => env('CLIENT_ID'),
+                'client_secret' => env('CLIENT_SCRET'),
             ]);
         
         $response = $response->object(); 
