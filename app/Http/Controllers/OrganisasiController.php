@@ -61,8 +61,8 @@ class OrganisasiController extends Controller
 
         // Redirect atau berikan respons sukses 
 
-        $url = 'https://api-satusehat-dev.dto.kemkes.go.id/fhir-r4/v1/Organization';
-        $ihs = '100027612';
+        $url = 'https://api-satusehat.kemkes.go.id/fhir-r4/v1/Organization';
+        $ihs = env('IHS');
         $value_identifier = $request->input('value_identifier');
         $typecode = $request->input('typecode');
         $typedisplay = $request->input('typedisplay');
