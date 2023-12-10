@@ -26,8 +26,8 @@ class LocationController extends Controller
 
         $response = Http::asForm()
             ->post('https://api-satusehat-dev.dto.kemkes.go.id/oauth2/v1/accesstoken?grant_type=client_credentials', [
-                'client_id' => 'xRCQ4CVWPMd8gGa8he9HWHvylXuOzROPRisBU4IPCGXFJxy4',
-                'client_secret' => 'iGHbKvYW2xWBwEJ2RP9vMYMSUT4f6xcjLZ8u5zf0dsMIo2KlxfIqACL3r8YRr27l',
+                'client_id' => env('CLIENT_ID'),
+                'client_secret' => env('CLIENT_SCRET'),
             ]);
 
         $response = $response->object();
@@ -59,7 +59,7 @@ class LocationController extends Controller
         $identifier_value = $request->input('identifier_value');
         $name = $request->input('name');
         $description = $request->input('description');
- 
+
         $organitationOf = $request->input('organitationOf');
         $locationOf = $request->input('locationOf');
         $bearer = Session::get('bearer');
@@ -130,12 +130,12 @@ class LocationController extends Controller
             // "managingOrganization" => [
             //     "reference" => "Organization/$organitationOf"
             // ],
-            "partOf" => [ 
-                "reference" => "Location/$locationOf" 
+            "partOf" => [
+                "reference" => "Location/$locationOf"
             ]
-        ]; 
+        ];
 
- 
+
         // return response()->json($data);
 
         $response = Http::withHeaders($headers)
@@ -143,9 +143,9 @@ class LocationController extends Controller
 
         if ($response->status() == 200 || $response->status() == 201) {
             $response = $response->object();
-            Location::create([ 
+            Location::create([
                 'id' => $response->id,
-                'value_identifier' => $request->input('value_identifier'), 
+                'value_identifier' => $request->input('value_identifier'),
                 'identifier_value' =>  $identifier_value,
                 'name' =>  $name,
                 'description' =>  $description,
